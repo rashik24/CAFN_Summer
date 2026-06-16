@@ -9,23 +9,6 @@ except ImportError:
     import geopandas_lite as gpd
 
 gpd.options.io_engine = "pyogrio"   # ✅ ensures no Fiona/GDAL dependency
-filter1_desc = {
-    "Brown Bag": "Pre-packed grocery bags distributed to individuals or families.",
-    "Food Distribution": "General food distribution events providing groceries.",
-    "Food Distribution (Pickup)": "Scheduled pickup-based food distribution.",
-    "Mobile Food Distribution": "Food distribution at rotating or temporary locations.",
-    "Other": "Additional services not categorized elsewhere.",
-    "Young adult programs": "Programs specifically designed for young adults.",
-    "Youth Programs": "Programs supporting children and teenagers."
-}
-
-filter2_desc = {
-    "Feeding Program": "Programs providing prepared meals.",
-    "Feeding Programs": "Multiple or recurring feeding services.",
-    "Food Pantries": "Locations where groceries are distributed for home use.",
-    "Shelters": "Facilities providing temporary housing and meals.",
-    "Soup Kitchen": "Locations serving hot, ready-to-eat meals."
-}
 from shapely.geometry import Point
 from opencage.geocoder import OpenCageGeocode
 from dateutil import parser
@@ -84,7 +67,7 @@ st.title("CAFN Food Finder")
 os.environ["MAPBOX_API_KEY"] = "pk.eyJ1IjoicnNpZGRpcTIiLCJhIjoiY21jbjcwNWtkMHV5bzJpb2pnM3QxaDFtMyJ9.6T6i_QFuKQatpGaCFUvCKg"
 
 HOURS_CSV   = "cafn_hourly.csv"              # columns: agency,city,address,week,day,hour,window,Name,Latitude,Longitude
-ODM_CSV     = "ODM CAFN 2.csv"                 # your precomputed travel times & filters
+ODM_CSV     = "ODM CAFN 2.csv"                 # your precomputed travel times
 TRACTS_SHP  = "cb_2023_37_tract_500k.shp"
 #OPENCAGE_API_KEY = "f53bdda785074d5499b7a4d29d5acd1f" 
 OPENCAGE_API_KEY="00538e3f0ee34dab8bc90257350c2087"
@@ -217,112 +200,16 @@ df = df.merge(
 )
 #st.write("DF columns:", list(df.columns))
 # ───────────────────────────────────────────────────────────────────────
-# CORE FILTERS (Choice + Filter1 + Filter2) — unchanged
+# ───────────────────────────────────────────────────────────────────────
+# CHOICE PANTRY FILTER
 # ───────────────────────────────────────────────────────────────────────
 show_choice_only = st.checkbox("Show only Choice Pantries", value=False)
 
-st.markdown("### Select Categories")
-filter_1_vals = sorted(df["filter_1"].dropna().unique()) if "filter_1" in df.columns else []
-selected_filter_1 = st.multiselect("", filter_1_vals, label_visibility="collapsed", key="filter_1_multi")
-if selected_filter_1:
-    st.markdown("### ℹ️ Category Description")
-    for val in selected_filter_1:
-        st.info(f"**{val}**: {filter1_desc.get(val, 'No description available.')}")
-# for val in filter_1_vals:
-#     color = "#1f77b4"
-#     is_selected = val in selected_filter_1
-#     st.markdown(
-#         f"<div style='padding: 6px; background-color:{color if is_selected else '#e0e0e0'}; "
-#         f"color:white; border-radius:5px; margin-bottom:5px'>{val}</div>",
-#         unsafe_allow_html=True
-#     )
-
-for val in filter_1_vals:
-    color = "#1f77b4"
-    is_selected = val in selected_filter_1
-    desc = filter1_desc.get(val, "")
-
-    st.markdown(
-        f"""
-        <div title="{desc}" 
-             style='padding: 6px; 
-                    background-color:{color if is_selected else '#e0e0e0'};
-                    color:white; 
-                    border-radius:5px; 
-                    margin-bottom:5px'>
-             {val}
-        </div>
-        """,
-        unsafe_allow_html=True
-    )
-
-filtered_df = df[df["filter_1"].isin(selected_filter_1)] if selected_filter_1 else df.copy()
-
-# if not filtered_df.empty and "filter_2" in filtered_df.columns:
-#     st.markdown("### Select Subcategories")
-#     filter_2_vals = sorted(filtered_df["filter_2"].dropna().unique())
-#     #selected_filter_2 = st.multiselect("", filter_2_vals, label_visibility="collapsed", key="filter_2_multi")
-#     selected_filter_2 = st.multiselect("Filter 2", filter_2_vals, label_visibility="collapsed", key="filter_2_multi")
-
-#     for val in filter_2_vals:
-#         color = "#ff7f0e"
-#         is_selected = val in selected_filter_2
-#         st.markdown(
-#             f"<div style='padding: 6px; background-color:{color if is_selected else '#e0e0e0'}; "
-#             f"color:white; border-radius:5px; margin-bottom:5px'>{val}</div>",
-#             unsafe_allow_html=True
-#         )
-
-#     if selected_filter_2:
-#         filtered_df = filtered_df[filtered_df["filter_2"].isin(selected_filter_2)]
-if not filtered_df.empty and "filter_2" in filtered_df.columns:
-    st.markdown("### Select Subcategories")
-
-    filter_2_vals = sorted(filtered_df["filter_2"].dropna().unique())
-
-    selected_filter_2 = st.multiselect(
-        "Filter 2",
-        filter_2_vals,
-        label_visibility="collapsed",
-        key="filter_2_multi"
-    )
-
-    # 🔹 Display clickable/hover blocks
-    for val in filter_2_vals:
-        color = "#ff7f0e"
-        is_selected = val in selected_filter_2
-        desc = filter2_desc.get(val, "")
-
-        st.markdown(
-            f"""
-            <div title="{desc}" 
-                 style='padding: 6px; 
-                        background-color:{color if is_selected else '#e0e0e0'};
-                        color:white; 
-                        border-radius:5px; 
-                        margin-bottom:5px'>
-                 {val}
-            </div>
-            """,
-            unsafe_allow_html=True
-        )
-
-    # ✅ APPLY FILTER (outside loop)
-    if selected_filter_2:
-        filtered_df = filtered_df[
-            filtered_df["filter_2"].isin(selected_filter_2)
-        ]
-
-    # ✅ SHOW DESCRIPTION (outside loop)
-    if selected_filter_2:
-        st.markdown("### ℹ️ Subcategory Description")
-        for val in selected_filter_2:
-            st.info(
-                f"**{val}**: {filter2_desc.get(val, 'No description available.')}"
-            )
+filtered_df = df.copy()
 
 if show_choice_only and "choice" in filtered_df.columns:
     filtered_df = filtered_df[filtered_df["choice"] == 1]
+
 # ───────────────────────────────────────────────────────────────────────
 # NEW: COUNTY FILTER
 # ───────────────────────────────────────────────────────────────────────
