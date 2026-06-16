@@ -61,7 +61,7 @@ def load_tracts(path: str):
 # ───────────────────────────────────────────────────────────────────────
 
 st.set_page_config(page_title="CAFN Food Pantries", layout="wide")
-st.title("CAFN Food Finder")
+st.title("CAFN Summer Food Finder")
 
 # Set your Mapbox token as environment variable
 os.environ["MAPBOX_API_KEY"] = "pk.eyJ1IjoicnNpZGRpcTIiLCJhIjoiY21jbjcwNWtkMHV5bzJpb2pnM3QxaDFtMyJ9.6T6i_QFuKQatpGaCFUvCKg"
