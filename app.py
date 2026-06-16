@@ -192,12 +192,12 @@ else:
 #st.write("agencies columns:", list(agencies.columns))
 
 df = agencies_nearby.copy()
-df = df.merge(
-    agencies[['agency no.', 'hispanic', 'county']],
-    left_on='agency no.',
-    right_on='agency no.',
-    how='left'
-)
+# df = df.merge(
+#     agencies[['agency no.', 'hispanic', 'county']],
+#     left_on='agency no.',
+#     right_on='agency no.',
+#     how='left'
+# )
 #st.write("DF columns:", list(df.columns))
 # ───────────────────────────────────────────────────────────────────────
 # ───────────────────────────────────────────────────────────────────────
