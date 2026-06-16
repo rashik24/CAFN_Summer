@@ -1,0 +1,2319 @@
+,Parent,Name,Address,Hours,Parent Agency No.,Input,Model_Output,day,hour,window
+0,CS1001,Fuquay-Varina Growers Market,"121 N Main St, Fuquay-Varina, NC",Saturday; 9:30 AM–11:30 AM,CS1001,Saturday; 9:30 AM–11:30 AM,"[
+    {
+        ""Day"": ""saturday"",
+        ""Opening_Hour"": ""09:30 am"",
+        ""Closing_Hour"": ""11:30 am"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Saturday,9,08:00–09:59
+3,CS1002,Pine Acres Community Center,"402 Mc Lean St, Fuquay-Varina, NC",Monday–Friday; 12:30 PM–1:30 PM,CS1002,Monday–Friday; 12:30 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,12,12:00–13:59
+5,CS1002,Pine Acres Community Center,"402 Mc Lean St, Fuquay-Varina, NC",Monday–Friday; 12:30 PM–1:30 PM,CS1002,Monday–Friday; 12:30 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,12,12:00–13:59
+7,CS1002,Pine Acres Community Center,"402 Mc Lean St, Fuquay-Varina, NC",Monday–Friday; 12:30 PM–1:30 PM,CS1002,Monday–Friday; 12:30 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,12,12:00–13:59
+9,CS1002,Pine Acres Community Center,"402 Mc Lean St, Fuquay-Varina, NC",Monday–Friday; 12:30 PM–1:30 PM,CS1002,Monday–Friday; 12:30 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,12,12:00–13:59
+11,CS1002,Pine Acres Community Center,"402 Mc Lean St, Fuquay-Varina, NC",Monday–Friday; 12:30 PM–1:30 PM,CS1002,Monday–Friday; 12:30 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:30 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,12,12:00–13:59
+13,CS1003,Sherrill’s University of Cosmetology,"3601 Bastion Ln, Raleigh, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,12,12:00–13:59
+14,CS1003,Sherrill’s University of Cosmetology,"3601 Bastion Ln, Raleigh, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,12,12:00–13:59
+15,CS1003,Sherrill’s University of Cosmetology,"3601 Bastion Ln, Raleigh, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,12,12:00–13:59
+16,CS1003,Sherrill’s University of Cosmetology,"3601 Bastion Ln, Raleigh, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,12,12:00–13:59
+17,CS1003,Sherrill’s University of Cosmetology,"3601 Bastion Ln, Raleigh, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,12,12:00–13:59
+23,CS1004,Raleigh Church of Christ,"911 Barringer Dr, Raleigh, NC",Tuesday and Wednesday; 12:00 PM–2:00 PM,CS1004,Tuesday and Wednesday; 12:00 PM–2:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,12,12:00–13:59
+25,CS1004,Raleigh Church of Christ,"911 Barringer Dr, Raleigh, NC",Tuesday and Wednesday; 12:00 PM–2:00 PM,CS1004,Tuesday and Wednesday; 12:00 PM–2:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""02:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,12,12:00–13:59
+27,CS1005,The Rock Church,"2940 Trawick Rd, Raleigh, NC",Friday; 12:00 PM–1:00 PM,CS1005,Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,12,12:00–13:59
+28,CS1006,Regeneration Temple,"4000 Atlantic Ave Suite 116, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,11,10:00–11:59
+29,CS1006,Regeneration Temple,"4000 Atlantic Ave Suite 116, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,11,10:00–11:59
+30,CS1006,Regeneration Temple,"4000 Atlantic Ave Suite 116, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,11,10:00–11:59
+31,CS1006,Regeneration Temple,"4000 Atlantic Ave Suite 116, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,11,10:00–11:59
+32,CS1006,Regeneration Temple,"4000 Atlantic Ave Suite 116, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,11,10:00–11:59
+38,CS1007,Redeeming Love Missionary Baptist Church,"3425 Rock Quarry Rd, Raleigh, NC",Monday and Wednesday; 1:30 PM–3:00 PM,CS1007,Monday and Wednesday; 1:30 PM–3:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""01:30 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""01:30 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,13,12:00–13:59
+40,CS1007,Redeeming Love Missionary Baptist Church,"3425 Rock Quarry Rd, Raleigh, NC",Monday and Wednesday; 1:30 PM–3:00 PM,CS1007,Monday and Wednesday; 1:30 PM–3:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""01:30 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""01:30 pm"",
+        ""Closing_Hour"": ""03:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,13,12:00–13:59
+42,CS1008,Historic Oak View Park,"4028 Carya Drive, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,11,10:00–11:59
+43,CS1008,Historic Oak View Park,"4028 Carya Drive, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,11,10:00–11:59
+44,CS1008,Historic Oak View Park,"4028 Carya Drive, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,11,10:00–11:59
+45,CS1008,Historic Oak View Park,"4028 Carya Drive, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,11,10:00–11:59
+46,CS1008,Historic Oak View Park,"4028 Carya Drive, Raleigh, NC",Monday–Friday; 11:00 AM–12:00 PM,CS1006,Monday–Friday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,11,10:00–11:59
+52,CS1009,Poe Center for Health Ed.,"224 Sunnybrook Road, Raleigh, NC",Wednesday; 11:30 AM–12:30 PM,CS1009,Wednesday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,11,10:00–11:59
+54,CS1010,New Hope Baptist Church,"4301 Louisburg Road, Raleigh, NC",Monday–Friday; 12:00 PM–1:30 PM,CS1010,Monday–Friday; 12:00 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,12,12:00–13:59
+56,CS1010,New Hope Baptist Church,"4301 Louisburg Road, Raleigh, NC",Monday–Friday; 12:00 PM–1:30 PM,CS1010,Monday–Friday; 12:00 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,12,12:00–13:59
+58,CS1010,New Hope Baptist Church,"4301 Louisburg Road, Raleigh, NC",Monday–Friday; 12:00 PM–1:30 PM,CS1010,Monday–Friday; 12:00 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,12,12:00–13:59
+60,CS1010,New Hope Baptist Church,"4301 Louisburg Road, Raleigh, NC",Monday–Friday; 12:00 PM–1:30 PM,CS1010,Monday–Friday; 12:00 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,12,12:00–13:59
+62,CS1010,New Hope Baptist Church,"4301 Louisburg Road, Raleigh, NC",Monday–Friday; 12:00 PM–1:30 PM,CS1010,Monday–Friday; 12:00 PM–1:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,12,12:00–13:59
+64,CS1011,Wake County Public Health,"200 Swinburne St, Raleigh, NC",Tuesday and Thursday; 11:30 AM–12:30 PM,CS1011,Tuesday and Thursday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,11,10:00–11:59
+66,CS1011,Wake County Public Health,"200 Swinburne St, Raleigh, NC",Tuesday and Thursday; 11:30 AM–12:30 PM,CS1011,Tuesday and Thursday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,11,10:00–11:59
+68,CS1012,Peach Road Community Center,"911 Ileagnes Rd, Raleigh, NC",Monday–Friday; 11:30 AM–12:30 PM,CS1012,Monday–Friday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,11,10:00–11:59
+70,CS1012,Peach Road Community Center,"911 Ileagnes Rd, Raleigh, NC",Monday–Friday; 11:30 AM–12:30 PM,CS1012,Monday–Friday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,11,10:00–11:59
+72,CS1012,Peach Road Community Center,"911 Ileagnes Rd, Raleigh, NC",Monday–Friday; 11:30 AM–12:30 PM,CS1012,Monday–Friday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,11,10:00–11:59
+74,CS1012,Peach Road Community Center,"911 Ileagnes Rd, Raleigh, NC",Monday–Friday; 11:30 AM–12:30 PM,CS1012,Monday–Friday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,11,10:00–11:59
+76,CS1012,Peach Road Community Center,"911 Ileagnes Rd, Raleigh, NC",Monday–Friday; 11:30 AM–12:30 PM,CS1012,Monday–Friday; 11:30 AM–12:30 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""11:30 am"",
+        ""Closing_Hour"": ""12:30 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,11,10:00–11:59
+78,CS1013,Wake County Northern Regional Center,"350 E Holding Ave, Wake Forest, NC",Tuesday–Thursday; 11:00 AM–12:00 PM,CS1013,Tuesday–Thursday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    }
+]",Tuesday,11,10:00–11:59
+79,CS1013,Wake County Northern Regional Center,"350 E Holding Ave, Wake Forest, NC",Tuesday–Thursday; 11:00 AM–12:00 PM,CS1013,Tuesday–Thursday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3""
+        ]
+    }
+]",Thursday,11,10:00–11:59
+80,CS1014,Wendell Parks and Recreation,"601 W 3rd St, Wendell, NC",Tuesday and Friday; 12:00 PM–1:00 PM,CS1014,Tuesday and Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,12,12:00–13:59
+81,CS1014,Wendell Parks and Recreation,"601 W 3rd St, Wendell, NC",Tuesday and Friday; 12:00 PM–1:00 PM,CS1014,Tuesday and Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,12,12:00–13:59
+82,CS1015,Beech Bluff County Park,"3321 NC-42, Willow Spring, NC",Tuesday and Thursday; 11:00 AM–12:00 PM,CS1015,Tuesday and Thursday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,11,10:00–11:59
+83,CS1015,Beech Bluff County Park,"3321 NC-42, Willow Spring, NC",Tuesday and Thursday; 11:00 AM–12:00 PM,CS1015,Tuesday and Thursday; 11:00 AM–12:00 PM,"[
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""11:00 am"",
+        ""Closing_Hour"": ""12:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,11,10:00–11:59
+84,CS1016,Wakefield Missionary Baptist,"809 Proctor St, Zebulon, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Monday,12,12:00–13:59
+85,CS1016,Wakefield Missionary Baptist,"809 Proctor St, Zebulon, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Tuesday,12,12:00–13:59
+86,CS1016,Wakefield Missionary Baptist,"809 Proctor St, Zebulon, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Wednesday,12,12:00–13:59
+87,CS1016,Wakefield Missionary Baptist,"809 Proctor St, Zebulon, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Thursday,12,12:00–13:59
+88,CS1016,Wakefield Missionary Baptist,"809 Proctor St, Zebulon, NC",Monday–Friday; 12:00 PM–1:00 PM,CS1003,Monday–Friday; 12:00 PM–1:00 PM,"[
+    {
+        ""Day"": ""monday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""tuesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""wednesday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""thursday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    },
+    {
+        ""Day"": ""friday"",
+        ""Opening_Hour"": ""12:00 pm"",
+        ""Closing_Hour"": ""01:00 pm"",
+        ""Week"": [
+            ""1"",
+            ""2"",
+            ""3"",
+            ""4""
+        ]
+    }
+]",Friday,12,12:00–13:59
