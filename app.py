@@ -114,7 +114,7 @@ if "county" in odm_df.columns:
 
 # normalize columns used for joining/filters
 odm_df["agency name"] = odm_df["agency no."].astype(str).str.strip()
-odm_df["address"] = odm_df["address"].astype(str).str.strip()
+#odm_df["address"] = odm_df["address"].astype(str).str.strip()
 if "geoid" in odm_df.columns:
     #odm_df["geoid"] = pd.to_numeric(odm_df["geoid"], errors="coerce").fillna(-1).astype(int)
     odm_df["geoid"] = odm_df["geoid"].astype(str).str.strip()
