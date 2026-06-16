@@ -1,4 +1,4 @@
-,GEOID,Name,geodesic_distance_miles,estimated_road_distance_miles,distance_meters,distance_text,drive_time_seconds,drive_time_minutes,drive_time_text,road_factor,average_speed_mph,status,Agency No.,Latitude,Longitude,TRACT_LAT_COL,TRACT_LNG_COL,County
+,GEOID,Name,geodesic_distance_miles,estimated_road_distance_miles,distance_meters,distance_text,drive_time_seconds,total_drivetime,drive_time_text,road_factor,average_speed_mph,status,Agency No.,Latitude,Longitude,TRACT_LAT_COL,TRACT_LNG_COL,County
 0,37183052002.0,Fuquay-Varina Growers Market,16.899,21.124,33995.414,21.1 mi,2535,42.25,42 mins,1.25,30,ESTIMATED,CS1001,35.58532,-78.800162,35.767308,-78.599006,183
 1,37183052002.0,Pine Acres Community Center,16.936,21.17,34070.453,21.2 mi,2540,42.333,42 mins,1.25,30,ESTIMATED,CS1002,35.584345,-78.799816,35.767308,-78.599006,183
 2,37183052002.0,Sherrill’s University of Cosmetology,2.207,2.759,4440.499,2.8 mi,331,5.517,6 mins,1.25,30,ESTIMATED,CS1003,35.79742,-78.58585,35.767308,-78.599006,183
