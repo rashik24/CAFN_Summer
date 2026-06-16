@@ -108,7 +108,20 @@ hourly_df["agency"] = hourly_df["name"].astype(str).str.strip()
 odm_df = pd.read_csv(ODM_CSV)
 odm_df.columns = odm_df.columns.str.strip().str.lower()
 odm_df.columns = odm_df.columns.str.strip().str.lower()
+odm_df = pd.read_csv(
+    ODM_CSV,
+    dtype={"GEOID": str, "geoid": str}
+)
 
+odm_df.columns = odm_df.columns.str.strip().str.lower()
+
+odm_df["geoid"] = (
+    odm_df["geoid"]
+    .astype(str)
+    .str.strip()
+    .str.replace(r"\.0$", "", regex=True)
+    .str.zfill(11)
+)
 if "county" in odm_df.columns:
     odm_df = odm_df.drop(columns=["county"])
 
