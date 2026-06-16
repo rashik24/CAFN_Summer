@@ -67,7 +67,7 @@ st.title("CAFN Food Finder")
 os.environ["MAPBOX_API_KEY"] = "pk.eyJ1IjoicnNpZGRpcTIiLCJhIjoiY21jbjcwNWtkMHV5bzJpb2pnM3QxaDFtMyJ9.6T6i_QFuKQatpGaCFUvCKg"
 
 HOURS_CSV   = "cafn_hourly.csv"              # columns: agency,city,address,week,day,hour,window,Name,Latitude,Longitude
-ODM_CSV     = "ODM_CAFN_Summmer_2.csv"                 # your precomputed travel times
+ODM_CSV     = "ODM_CAFN_Summer_2.csv"                 # your precomputed travel times
 TRACTS_SHP  = "cb_2023_37_tract_500k.shp"
 #OPENCAGE_API_KEY = "f53bdda785074d5499b7a4d29d5acd1f" 
 OPENCAGE_API_KEY="00538e3f0ee34dab8bc90257350c2087"
