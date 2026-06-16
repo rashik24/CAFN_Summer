@@ -28,7 +28,7 @@ def load_hourly(path: str) -> pd.DataFrame:
 def load_odm(path: str) -> pd.DataFrame:
     df = pd.read_csv(path)
     df.columns = df.columns.str.strip().str.lower()
-    df["agency name"] = df["Agency No."].astype(str).str.strip()
+    df["agency name"] = df["agency no."].astype(str).str.strip()
     df["address"] = df["address"].astype(str).str.strip()
     df = df.drop(columns=["county"], errors="ignore")  # avoid county_x/county_y
     if "geoid" in df.columns:
@@ -113,7 +113,7 @@ if "county" in odm_df.columns:
     odm_df = odm_df.drop(columns=["county"])
 
 # normalize columns used for joining/filters
-odm_df["agency name"] = odm_df["Agency No."].astype(str).str.strip()
+odm_df["agency name"] = odm_df["agency no."].astype(str).str.strip()
 odm_df["address"] = odm_df["address"].astype(str).str.strip()
 if "geoid" in odm_df.columns:
     #odm_df["geoid"] = pd.to_numeric(odm_df["geoid"], errors="coerce").fillna(-1).astype(int)
