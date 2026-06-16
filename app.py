@@ -28,7 +28,7 @@ def load_hourly(path: str) -> pd.DataFrame:
 def load_odm(path: str) -> pd.DataFrame:
     df = pd.read_csv(path)
     df.columns = df.columns.str.strip().str.lower()
-    df["agency name"] = df["agency name"].astype(str).str.strip()
+    df["agency name"] = df["Agency No."].astype(str).str.strip()
     df["address"] = df["address"].astype(str).str.strip()
     df = df.drop(columns=["county"], errors="ignore")  # avoid county_x/county_y
     if "geoid" in df.columns:
